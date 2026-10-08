@@ -1,0 +1,5 @@
+aiohttp
+pyrogram
+tzdata
+Pillow
+TgCrypto
